@@ -15,7 +15,7 @@ const projectsData = [
   {
     id: 0,
     name: 'Awesome Books Single Page Website',
-    image: 'assets/images/projects/demo2.jpg',
+    image: 'assets/images/projects/demo2.png',
     description:
       "Awesome books is a single page website that is used to store and remove the books.",
     technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 2,
     name: 'TO-Do List',
-    image: 'assets/images/projects/ddemo.png',
+    image: 'assets/images/projects/demo.png',
     description:
       "A to do list web app that help you keep track of your task .you can add, delete, update your daily task.",
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],

@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/IfzaRasool)
+[Live Demo Link](https://ifzarasool.github.io/Personal-Portfolio/)
 
 
 ## Getting Started

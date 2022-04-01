@@ -199,13 +199,21 @@ a {
 }
 
 .work0 {
-  background-image: url("assets/images/projects/todolist.svg");
+  background-image: url("assets/images/projects/demo2.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
-.work1,
-.work2,
+.work1 {
+  background-image: url("assets/images/projects/project1.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.work2 {
+  background-image: url("assets/images/projects/demo.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 .work3,
 .work4,
 .work5 {
