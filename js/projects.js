@@ -16,8 +16,7 @@ const projectsData = [
     id: 0,
     name: 'Awesome Books Single Page Website',
     image: 'assets/images/projects/demo2.png',
-    description:
-      "Awesome books is a single page website that is used to store and remove the books.",
+    description: 'Awesome books is a single page website that is used to store and remove the books.',
     technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
     live: 'https://ifzarasool.github.io/AwesomeBooks-Single-Page-Website/',
     source: 'https://github.com/IfzaRasool/AwesomeBooks-Single-Page-Website'
@@ -26,8 +25,7 @@ const projectsData = [
     id: 1,
     name: 'Capston Project',
     image: 'assets/images/projects/project1.png',
-    description:
-      "The Developer Week website is provides information about the event, speakers, and how guests can attend the events.",
+    description: "The Developer Week website is provides information about the event, speakers, and how guests can attend the events.",
     technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
     live: 'https://ifzarasool.github.io/Capstone-Project/',
     source: 'https://github.com/IfzaRasool/Capstone-Project'
@@ -36,8 +34,7 @@ const projectsData = [
     id: 2,
     name: 'TO-Do List',
     image: 'assets/images/projects/demo.png',
-    description:
-      "A to do list web app that help you keep track of your task .you can add, delete, update your daily task.",
+    description:  'A to do list web app that help you keep track of your task .you can add, delete, update your daily task.',
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
     live: 'https://ifzarasool.github.io/To-Do-List/',
     source: 'https://github.com/IfzaRasool/To-Do-List'
@@ -46,8 +43,7 @@ const projectsData = [
     id: 3,
     name: 'Project under construction',
     image: 'assets/images/projects/default.svg',
-    description:
-      "I'm learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.",
+    description: 'I m learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.',
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
     live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
     source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
@@ -56,8 +52,7 @@ const projectsData = [
     id: 4,
     name: 'Project under construction',
     image: 'assets/images/projects/default.svg',
-    description:
-      "I'm learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.",
+    description: 'I m learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.',
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
     live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
     source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
@@ -66,8 +61,7 @@ const projectsData = [
     id: 5,
     name: 'Project under construction',
     image: 'assets/images/projects/default.svg',
-    description:
-      "I'm learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.",
+    description: 'I m learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.',
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
     live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
     source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
