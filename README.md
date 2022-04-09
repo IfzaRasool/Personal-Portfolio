@@ -11,7 +11,7 @@
 
 ## Screenshot Demo
 
-![profileimage](./assets/images/project image.png)
+![profileimage](./assets/images/profile-image.png)
 
 ## Live Demo
 
