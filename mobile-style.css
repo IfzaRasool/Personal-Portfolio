@@ -216,7 +216,12 @@ a {
   background-repeat: no-repeat;
 }
 
-.work3,
+.work3 {
+  background-image: url("assets/images/projects/leaderboard.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 .work4,
 .work5 {
   background-image: url("assets/images/projects/defaultgif.gif");
