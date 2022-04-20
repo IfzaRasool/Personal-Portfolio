@@ -43,10 +43,10 @@ const projectsData = [
     id: 3,
     name: 'Project under construction',
     image: 'assets/images/projects/default.svg',
-    description: 'I m learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.',
-    technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
-    source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
+    description: 'Big Chief is a website where you find and share everyday cooking inspiration. Discover recipes, cooks, videos, and how-tos based on the food you love.',
+    technologies: ['RestAPI', 'CSS', 'JavaScript-Es6', 'HTML'],
+    live: 'https://ifzarasool.github.io/Mealdb-API-project/',
+    source: 'https://github.com/IfzaRasool/Mealdb-API-project.git'
   },
   {
     id: 4,
@@ -54,8 +54,8 @@ const projectsData = [
     image: 'assets/images/projects/default.svg',
     description: 'I m learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.',
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
-    source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
+    live: 'https:/',
+    source: ''
   },
   {
     id: 5,
