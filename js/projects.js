@@ -50,10 +50,10 @@ const projectsData = [
   },
   {
     id: 4,
-    name: 'Project under construction',
+    name: 'Space Travelers Hub',
     image: 'assets/images/projects/default.svg',
-    description: 'I m learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.',
-    technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
+    description: 'Space-travelers-hub is web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.',
+    technologies: ['RESTAPI','React.js','Redux','JavaScript-Es6','Node.js','CSS3', 'HTML5'],
     live: 'https:/',
     source: ''
   },
