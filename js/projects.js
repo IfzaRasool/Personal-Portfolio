@@ -12,23 +12,24 @@ const closeProject = document.querySelector('.close');
 const previousButton = document.querySelector('.prevProject');
 const nextButton = document.querySelector('.nextProject');
 const projectsData = [
+
   {
     id: 0,
+    name: 'Developer Week Project',
+    image: 'assets/images/projects/project1.png',
+    description: "The Developer Week website is provides information about the event, speakers, and how guests can attend the events.",
+    technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
+    live: 'https://ifzarasool.github.io/Capstone-Project/',
+    source: 'https://github.com/IfzaRasool/Capstone-Project'
+  },
+  {
+    id: 1,
     name: 'Awesome Books Single Page Website',
     image: 'assets/images/projects/demo2.png',
     description: 'Awesome books is a single page website that is used to store and remove the books.',
     technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
     live: 'https://ifzarasool.github.io/AwesomeBooks-Single-Page-Website/',
     source: 'https://github.com/IfzaRasool/AwesomeBooks-Single-Page-Website'
-  },
-  {
-    id: 1,
-    name: 'Capston Project',
-    image: 'assets/images/projects/project1.png',
-    description: "The Developer Week website is provides information about the event, speakers, and how guests can attend the events.",
-    technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
-    live: 'https://ifzarasool.github.io/Capstone-Project/',
-    source: 'https://github.com/IfzaRasool/Capstone-Project'
   },
   {
     id: 2,
@@ -41,7 +42,7 @@ const projectsData = [
   },
   {
     id: 3,
-    name: 'Project under construction',
+    name: 'LeaderBoard',
     image: 'assets/images/projects/default.svg',
     description: 'Big Chief is a website where you find and share everyday cooking inspiration. Discover recipes, cooks, videos, and how-tos based on the food you love.',
     technologies: ['RestAPI', 'CSS', 'JavaScript-Es6', 'HTML'],
