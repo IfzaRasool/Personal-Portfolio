@@ -9,6 +9,10 @@
 - Frameworks: N/A
 - Technologies used: N/A
 
+## Screenshot Demo
+
+![profileimage](./assets/images/profile-image.png)
+
 ## Live Demo
 
 [Live Demo Link](https://ifzarasool.github.io/Personal-Portfolio/)

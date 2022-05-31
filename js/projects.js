@@ -12,65 +12,60 @@ const closeProject = document.querySelector('.close');
 const previousButton = document.querySelector('.prevProject');
 const nextButton = document.querySelector('.nextProject');
 const projectsData = [
+
   {
     id: 0,
-    name: 'Awesome Books Single Page Website',
-    image: 'assets/images/projects/demo2.png',
-    description:
-      "Awesome books is a single page website that is used to store and remove the books.",
+    name: 'Developer Week Project',
+    image: 'assets/images/projects/project1.png',
+    description: 'The Developer Week website is provides information about the event, speakers, and how guests can attend the events.',
     technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
-    live: 'https://ifzarasool.github.io/AwesomeBooks-Single-Page-Website/',
-    source: 'https://github.com/IfzaRasool/AwesomeBooks-Single-Page-Website'
+    live: 'https://ifzarasool.github.io/Capstone-Project/',
+    source: 'https://github.com/IfzaRasool/Capstone-Project',
   },
   {
     id: 1,
-    name: 'Capston Project',
-    image: 'assets/images/projects/project1.png',
-    description:
-      "The Developer Week website is provides information about the event, speakers, and how guests can attend the events.",
+    name: 'Awesome Books Single Page Website',
+    image: 'assets/images/projects/demo2.png',
+    description: 'Awesome books is a single page website that is used to store and remove the books.',
     technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
-    live: 'https://ifzarasool.github.io/Capstone-Project/',
-    source: 'https://github.com/IfzaRasool/Capstone-Project'
+    live: 'https://ifzarasool.github.io/AwesomeBooks-Single-Page-Website/',
+    source: 'https://github.com/IfzaRasool/AwesomeBooks-Single-Page-Website',
   },
   {
     id: 2,
     name: 'TO-Do List',
     image: 'assets/images/projects/demo.png',
-    description:
-      "A to do list web app that help you keep track of your task .you can add, delete, update your daily task.",
+    description: 'A to do list web app that help you keep track of your task .you can add, delete, update your daily task.',
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
     live: 'https://ifzarasool.github.io/To-Do-List/',
-    source: 'https://github.com/IfzaRasool/To-Do-List'
+    source: 'https://github.com/IfzaRasool/To-Do-List',
   },
   {
     id: 3,
-    name: 'Project under construction',
-    image: 'assets/images/projects/default.svg',
-    description:
-      "I'm learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.",
-    technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
-    source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
+    name: 'LeaderBoard',
+    image: 'assets/images/projects/leaderboard.png',
+    description: 'Scores submitted by different players are shown on the leaderboard page. You can also enter your score here. The external Leaderboard API service ensures that all data is retained',
+    technologies: ['RestAPI', 'CSS3', 'JavaScript-Es6', 'HTML5'],
+    live: 'https://ifzarasool.github.io/Mealdb-API-project/',
+    source: 'https://github.com/IfzaRasool/Mealdb-API-project.git',
   },
   {
     id: 4,
-    name: 'Project under construction',
-    image: 'assets/images/projects/default.svg',
-    description:
-      "I'm learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.",
-    technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
-    source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
+    name: 'Space Travelers Hub',
+    image: 'assets/images/projects/spacepro.png',
+    description: 'Space-travelers-hub is web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.',
+    technologies: ['RESTAPI', 'React.js', 'Redux', 'JavaScript-Es6', 'Node.js', 'CSS3', 'HTML5'],
+    live: 'https:/',
+    source: '',
   },
   {
     id: 5,
     name: 'Project under construction',
     image: 'assets/images/projects/default.svg',
-    description:
-      "I'm learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.",
+    description: 'I m learning and working hard to build amazing projects. Expect something new soon. In the mean time check out my other small  projects on GitHub.',
     technologies: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
     live: 'https://deyemiobaa.github.io/Personal-Portfolio/',
-    source: 'https://github.com/deyemiobaa/Personal-Portfolio/'
+    source: 'https://github.com/deyemiobaa/Personal-Portfolio/',
   },
 ];
 
