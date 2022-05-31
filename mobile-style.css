@@ -199,13 +199,13 @@ a {
 }
 
 .work0 {
-  background-image: url("assets/images/projects/demo2.png");
+  background-image: url("assets/images/projects/project1.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .work1 {
-  background-image: url("assets/images/projects/project1.png");
+  background-image: url("assets/images/projects/demo2.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -222,9 +222,14 @@ a {
   background-repeat: no-repeat;
 }
 
-.work4,
+.work4 {
+  background-image: url("assets/images/projects/spacepro.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 .work5 {
-  background-image: url("assets/images/projects/defaultgif.gif");
+  background-image: url("assets/images/projects/bookstore.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
