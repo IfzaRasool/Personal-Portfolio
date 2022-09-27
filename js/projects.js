@@ -52,12 +52,12 @@ const projectsData = [
   },
   {
     id: 4,
-    name: 'Awesome Books Single Page Website',
-    image: 'assets/images/projects/demo2.png',
-    description: 'Awesome books is a single page website that is used to store and remove the books.',
-    technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
-    live: 'https://ifzarasool.github.io/AwesomeBooks-Single-Page-Website/',
-    source: 'https://github.com/IfzaRasool/AwesomeBooks-Single-Page-Website',
+    name: 'Book an appointment ',
+    image: 'assets/images/projects/medibook.png',
+    description: 'Its a Doctor appointment scheduling app. Built with a React frontend and Rails backend. Users need to sign up or sign in to access the application.',
+    technologies: ['Ruby on Rails', 'React & Redux', 'JavaScript', 'Tailwind CSS', 'HTML/CSS', 'Node.js', 'ESLint'],
+    live: 'https://medibook-ui.vercel.app/login',
+    source: 'https://github.com/medi-book/medibook-ui',
   },
   {
     id: 5,
