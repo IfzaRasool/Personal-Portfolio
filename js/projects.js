@@ -15,10 +15,10 @@ const projectsData = [
 
   {
     id: 0,
-    name: 'Developer Week Project',
-    image: 'assets/images/projects/project1.png',
-    description: 'The Developer Week website is provides information about the event, speakers, and how guests can attend the events.',
-    technologies: ['JavaScript', 'HTML/CSS', 'Webpack', 'Node.js', 'ESLint'],
+    name: 'Feda IT Consulting',
+    image: 'assets/images/projects/fedait.png',
+    description: 'FEDA has grown to become the leading telematic solutions provider in Mali and in West Africa. They provide Vehicle Service Systems (VSS) including Central Management Software, Mobile DVR, Mobile Data Terminal, Artificial Intelligence products (DMS, ADAS), etc.',
+    technologies: ['Next.js', 'Node.js', 'JavaScript', 'HTML/CSS', 'Tailwind CSS', 'ESLint', 'MongoDB'],
     live: 'https://ifzarasool.github.io/Capstone-Project/',
     source: 'https://github.com/IfzaRasool/Capstone-Project',
   },
@@ -43,12 +43,12 @@ const projectsData = [
   },
   {
     id: 3,
-    name: 'LeaderBoard',
-    image: 'assets/images/projects/leaderboard.png',
+    name: 'Advance Journal of  Medical and Allied Health Science',
+    image: 'assets/images/projects/ajmahs.png',
     description: 'Scores submitted by different players are shown on the leaderboard page. You can also enter your score here. The external Leaderboard API service ensures that all data is retained',
-    technologies: ['RestAPI', 'CSS3', 'JavaScript-Es6', 'HTML5'],
-    live: 'https://ifzarasool.github.io/Leaderboard/',
-    source: 'https://github.com/IfzaRasool/Mealdb-API-project.git',
+    technologies: ['PHP', 'JavaScript-Es6', 'BootStrap5', 'HTML5/CSS'],
+    live: 'https://ajmahs.com.pk/',
+    source: 'https://github.com/IfzaRasool/health-publication',
   },
   {
     id: 4,
